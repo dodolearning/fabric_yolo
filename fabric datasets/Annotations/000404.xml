@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>000404.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages000404.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>DaiSha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>33</xmin>
+        <ymin>430</ymin>
+        <xmax>460</xmax>
+        <ymax>487</ymax>
+    </bndbox>
+</object>
+</annotation>

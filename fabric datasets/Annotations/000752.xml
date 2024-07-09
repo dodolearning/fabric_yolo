@@ -1,0 +1,39 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>000752.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages000752.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>MianQiu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>65</xmin>
+        <ymin>82</ymin>
+        <xmax>124</xmax>
+        <ymax>146</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>MianQiu</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>408</xmin>
+        <ymin>100</ymin>
+        <xmax>469</xmax>
+        <ymax>163</ymax>
+    </bndbox>
+</object>
+</annotation>

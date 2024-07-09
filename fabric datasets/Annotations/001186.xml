@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>001186.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages001186.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>TuoSha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>9</xmin>
+        <ymin>54</ymin>
+        <xmax>498</xmax>
+        <ymax>150</ymax>
+    </bndbox>
+</object>
+</annotation>

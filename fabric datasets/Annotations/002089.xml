@@ -1,0 +1,63 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>002089.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages002089.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>WuZi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>204</xmin>
+        <ymin>2</ymin>
+        <xmax>236</xmax>
+        <ymax>34</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>WuZi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>184</xmin>
+        <ymin>132</ymin>
+        <xmax>246</xmax>
+        <ymax>171</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>WuZi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>64</xmin>
+        <ymin>380</ymin>
+        <xmax>116</xmax>
+        <ymax>426</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>WuZi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>268</xmin>
+        <ymin>458</ymin>
+        <xmax>320</xmax>
+        <ymax>506</ymax>
+    </bndbox>
+</object>
+</annotation>

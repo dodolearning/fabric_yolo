@@ -1,0 +1,51 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>000454.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages000454.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>DuanSha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>116</xmin>
+        <ymin>22</ymin>
+        <xmax>177</xmax>
+        <ymax>62</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>DuanSha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>224</xmin>
+        <ymin>71</ymin>
+        <xmax>273</xmax>
+        <ymax>115</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>DuanSha</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>369</xmin>
+        <ymin>146</ymin>
+        <xmax>417</xmax>
+        <ymax>210</ymax>
+    </bndbox>
+</object>
+</annotation>

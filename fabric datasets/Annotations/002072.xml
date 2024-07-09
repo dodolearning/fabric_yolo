@@ -1,0 +1,27 @@
+<?xml version="1.0" ?><annotation>
+<folder>voc2012</folder>
+<filename>002072.jpg</filename>
+<path>D:/data/VOCdevkit/VOC2012/JPEGImages002072.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>WuZi</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>134</xmin>
+        <ymin>103</ymin>
+        <xmax>188</xmax>
+        <ymax>146</ymax>
+    </bndbox>
+</object>
+</annotation>
